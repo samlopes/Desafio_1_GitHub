@@ -1,0 +1,5 @@
+Desafio GitHub
+Samanta Lopes
+
+1. abri o visual studio e criei um .txt
+abri o terminal e criei um novo projeto com o comando 
